@@ -274,8 +274,9 @@ footer {
   background: black;
 }
 
-.bottom {
+.padded {
     margin: 0 auto;
+    padding: 1% 20%;
 }
 
 footer nav {
