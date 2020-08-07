@@ -169,6 +169,7 @@ a {
   text-decoration: none;
   color: black;
 }
+
 .img { 
     padding-left: 5%;
     width: 100%;
@@ -322,7 +323,8 @@ footer {
 }
 
 footer nav {
-  width: 60%;
+  width: 80%;
+  height: 10vh;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -334,4 +336,3 @@ footer nav a {
   color: white;
   text-decoration: none;
 }
-/* Code below here and move later */
